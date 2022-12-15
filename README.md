@@ -1,33 +1,11 @@
  
+# Klassieke Talen & Game Design - Geometry Zeus
 
+Yaggas, welkom in het oude Griekenland. Nadat Zeus een paar weken op aarde is verbleven, komt hij terug naar Olympus. Tot zijn grote verbazing wordt hij daar niet opgewacht door de godin Hera, maar is een van de monsters uit het diepe Tartarus er in geslaagd te ontsnappen! Zeus, vermoeid van zijn weken op aarde, zet het op het lopen! Ontsnap van het monster, spring over de traps, pas op voor de vuurballen, grijp de coins … en probeer zo het monster om de tuin te leiden en Olympus opnieuw veilig te maken!
 
-> Open this page at [https://robbew.github.io/geometry_zeus/](https://robbew.github.io/geometry_zeus/)
+De game kan je spelen via volgende link: 
+https://robbew.github.io/geometry_zeus/
 
-## Use as Extension
+Meer informatie over dit project vind je via volgende link: 
+https://www.robbewulgaert.be/onderwijs/wall-of-game
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/robbew/geometry_zeus** and import
-
-## Edit this project ![Build status badge](https://github.com/robbew/geometry_zeus/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/robbew/geometry_zeus** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/robbew/geometry_zeus/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
